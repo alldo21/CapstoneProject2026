@@ -12,6 +12,7 @@ Projek ini merupakan **Capstone Project** yang bertujuan untuk menganalisis data
     *   `lifestyle.csv`, `age_group.csv`, `correlation.csv`: File pendukung untuk analisis spesifik.
 *   **Data Dictionary Cardio.xlsx**: Dokumen penjelasan mengenai keterangan kolom dan variabel dalam dataset.
 *   **Project_Capstone_Fixed_(ready_to_model).ipynb**: Notebook utama yang berisi seluruh alur kerja mulai dari Exploratory Data Analysis (EDA) hingga persiapan model.
+*   **dashboard.py**: Berisikan kode coding untuk hasil visualisasi dashboard.
 *   **url-dashboard.txt**: Berisi tautan/link menuju dashboard interaktif Streamlit yang telah di-deploy.
 
 ## Cara Menjalankan
