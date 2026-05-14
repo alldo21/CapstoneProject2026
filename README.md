@@ -1,6 +1,6 @@
 # Capstone Project 2026 - Cardiovascular Disease Analysis
 
-Repository ini berisi proyek akhir (Capstone Project) mengenai analisis data penyakit kardiovaskular, mencakup proses pengolahan data, pemodelan machine learning, hingga visualisasi dashboard.
+Projek ini merupakan **Capstone Project** yang bertujuan untuk menganalisis data penyakit kardiovaskular, mencakup proses pengolahan data, pemodelan machine learning, hingga visualisasi dashboard.
 
 ## 📂 Struktur Proyek
 
