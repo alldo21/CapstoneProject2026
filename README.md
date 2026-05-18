@@ -4,16 +4,22 @@ Projek ini merupakan **Capstone Project** yang bertujuan untuk menganalisis data
 
 ## 📂 Struktur Proyek
 
-*   **dataset/**: Folder yang berisi seluruh kumpulan data yang digunakan dalam proyek:
-    *   `cardio_train (data mentah).csv`: Dataset asli sebelum diproses.
-    *   `cardio_processed (before scale).csv`: Data yang telah melalui tahap pembersihan.
-    *   `cardio_train_scaled (latih model).csv` & `cardio_test_scaled (uji model).csv`: Data yang sudah siap digunakan untuk proses machine learning.
-    *   `cardio_clean (dashboard).csv`: Data final yang dioptimalkan untuk visualisasi dashboard.
-    *   `lifestyle.csv`, `age_group.csv`, `correlation.csv`: File pendukung untuk analisis spesifik.
-*   **Data Dictionary Cardio.xlsx**: Dokumen penjelasan mengenai keterangan kolom dan variabel dalam dataset.
-*   **Project_Capstone_Fixed_(ready_to_model).ipynb**: Notebook utama yang berisi seluruh alur kerja mulai dari Exploratory Data Analysis (EDA) hingga persiapan model.
-*   **dashboard.py**: Berisi kode coding untuk hasil visualisasi dashboard.
-*   **url-dashboard.txt**: Berisi tautan/link menuju dashboard interaktif Streamlit yang telah di-deploy.
+```text
+├── dataset/
+│   ├── data for AI/
+│   │   ├── cardio_processed_cleaned.csv  # Data hasil preprocessing siap untuk modeling AI
+│   │   ├── cardio_test_scaled.csv       # Dataset pengujian (test set) yang telah di-scaling
+│   │   └── cardio_train_scaled.csv      # Dataset pelatihan (train set) yang telah di-scaling
+│   ├── age_group.csv                     # Data segmentasi berdasarkan kelompok usia
+│   ├── cardio_clean (dashboard).csv       # Dataset bersih khusus untuk visualisasi dashboard
+│   ├── cardio_train (data mentah).csv    # Dataset mentah awal sebelum proses cleaning
+│   ├── correlation.csv                   # Matriks korelasi antar fitur/variabel
+│   └── lifestyle.csv                     # Data terkait faktor gaya hidup (merokok, alkohol, fisik)
+├── Data Dictionary Cardio.xlsx           # Kamus data yang menjelaskan arti dari setiap kolom/fitur
+├── Project_Capstone_Fixed_(ready_to_...). # Notebook utama analisis data dan pengembangan model machine learning
+├── README.md                             # Dokumentasi proyek (File ini)
+├── dashboard.py                          # Kode sumber (Source code) untuk aplikasi dashboard interaktif
+└── url-dashboard.txt                     # Tautan resmi menuju dashboard yang telah di-deploy
 
 ## Cara Menjalankan
 
