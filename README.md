@@ -29,7 +29,7 @@ Projek ini merupakan **Capstone Project** yang bertujuan untuk menganalisis data
 
 2. **Visualisasi Dashboard**:
    Buka file `url-dashboard.txt` dan akses link yang tertera di dalamnya untuk melihat ringkasan temuan dalam bentuk visual.
-   Atau buka dalam file dahsboard.py dengan pip install -r requirements.txt & streamlit run dashboard.py
+   Atau buka dalam file `dahsboard.py` dengan pip install -r requirements.txt & streamlit run dashboard.py
 
 ## Teknologi yang Digunakan
 
