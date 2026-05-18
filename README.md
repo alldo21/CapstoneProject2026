@@ -20,6 +20,7 @@ Projek ini merupakan **Capstone Project** yang bertujuan untuk menganalisis data
 ├── README.md                             # Dokumentasi proyek (File ini)
 ├── dashboard.py                          # Kode sumber (Source code) untuk aplikasi dashboard interaktif
 └── url-dashboard.txt                     # Tautan resmi menuju dashboard yang telah di-deploy
+```
 
 ## Cara Menjalankan
 
