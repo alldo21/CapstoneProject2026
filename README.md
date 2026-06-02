@@ -16,7 +16,7 @@ Projek ini merupakan **Capstone Project** yang bertujuan untuk menganalisis data
 │   ├── correlation.csv                            # Matriks korelasi antar fitur/variabel
 │   └── lifestyle.csv                              # Data terkait faktor gaya hidup (merokok, alkohol, fisik)
 ├── Data Dictionary Cardio.xlsx                    # Kamus data yang menjelaskan arti dari setiap kolom/fitur
-├── Project_Capstone_Fixed_(ready_to_model).ipnyb  # Notebook utama analisis data dan pengembangan model machine learning
+├── Project_Capstone_Fixed_(ready_to_model)(1).ipnyb  # Notebook utama analisis data dan pengembangan model machine learning
 ├── README.md                                      # Dokumentasi proyek
 ├── dashboard.py                                   # Source code untuk aplikasi dashboard interaktif (Streamlit)
 └── url-dashboard.txt                              # Tautan resmi menuju dashboard yang telah di-deploy
